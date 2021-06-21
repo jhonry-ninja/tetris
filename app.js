@@ -40,6 +40,8 @@ document.addEventListener('DOMContentLoaded'), () => {
         [1, GRID_WIDTH + 1, GRID_WIDTH * 2 + 1, GRID_WIDTH * 3 + 1],
         [GRID_WIDTH, GRID_WIDTH + 1, GRID_WIDTH + 2, GRID_WIDTH + 3]
       ]
+
+      const theTetrominoes = [lTetromino, zTetromino, tTetromino, oTetromino, iTetromino]
     
 
 })
